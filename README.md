@@ -1,0 +1,1 @@
+# BNPL Demo Cloud App\n\nDemo BNPL system using local JSON backend.
